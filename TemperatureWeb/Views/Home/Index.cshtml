@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form action="/" method="post" style="text-align: center">
+    <span>
+        <div><span>FROM <input id="value" name="value" type="number" value=@ViewData["input"] /></span>
+            <label for="from"></label>
+            <select id="from" name="from" id="fromUnit">
+                <option value="Fahrenheit">Fahrenheit</option>
+                <option value="Celcius">Celcius</option>
+                <option value="Kelvin">Kelvin</option>
+            </select>
+
+        </div>
+    </span>
+
+    <span>
+        <div><span>To </span>
+
+            <label for="to"></label>
+            <select id="to" name="to" id="toUnit">
+                <option value="Fahrenheit">Fahrenheit</option>
+                <option value="Celcius">Celcius</option>
+                <option value="Kelvin">Kelvin</option>
+            </select>
+
+        </div>
+    </span>
+
+    <span>
+        <button id="btn">Convert >></button>
+        <input id="result" value=@ViewData["result"] disabled placeholder="Result">
+    </span>
+</form>
+
+<script type="text/javascript" src="../wwwroot/js/site"></script>
+

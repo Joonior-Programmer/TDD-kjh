@@ -1,0 +1,15 @@
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\bin\Debug\net6.0\ref\Temperature.dll
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\ref\Temperature.dll
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\BCIT\COMP 4870\Week 6\TemperatureConversion\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
