@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Temperature;
+using TemperatureWeb.Models;
 
 namespace TemperatureWeb.Controllers;
 
