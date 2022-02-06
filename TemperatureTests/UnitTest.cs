@@ -112,4 +112,13 @@ public class UnitTest
         double actual = conversion.Convert(Conversion.ConversionMode.Fahrenheit_to_Kelvin, 100);
         Assert.Equal(expected, actual);
     }
+
+    [Fact]
+    public void FailTest()
+    {
+        Conversion conversion = new Conversion();
+        double expected = 4646.33;
+        double actual = conversion.Convert(Conversion.ConversionMode.Fahrenheit_to_Kelvin, 100);
+        Assert.Equal(expected, actual);
+    }
 }
